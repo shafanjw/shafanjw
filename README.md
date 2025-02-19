@@ -12,8 +12,6 @@ My name is Shafa Najwa, an undergraduate student majoring in computer science. I
 ![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=11324D)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=11324D)
 
-[![shafanjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafanjw&count_private=true&show_icons=true&bg_color=DEG,6B7AA1,11324D&text_color=C1CFC0&title_color=E7E0C9&border_color=6B7AA1&icon_color=11324D)](https://github.com/shafanjw/github-readme-stats)
-
 ## Reach me out :
 ![Linkedin: Shafa Najwa](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shafanajwa/)
 <br>
